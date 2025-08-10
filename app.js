@@ -17,7 +17,8 @@ app.use(express.json());
 app.use(cookieParser());
 
 //routes
-const authRouter = require("./src/routes/auth");
+const authRouter = require("./src/routes/authgit remote -v
+");
 const profileRouter = require("./src/routes/profile");
 const requestRouter = require("./src/routes/request");
 const userRouter = require("./src/routes/user");
